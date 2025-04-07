@@ -58,7 +58,7 @@ public class Main {
 			arr[r1] = r2;
 		}else {
 			arr[r1] = r2;
-			rank[r1] += 1;
+			rank[r2] += 1;
 		}
 		return true;
 	}
